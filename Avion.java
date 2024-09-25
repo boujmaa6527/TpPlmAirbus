@@ -14,6 +14,7 @@ public class Avion {
 		System.out.println("Bienvenu au Programme FMS-AIRBUS");
 		System.out.println("*******************************************");
 		System.out.println("*******************************************");
+		System.out.println("Bienvenu au Programme FMS-AIRBUS");
 
 		displayMenu();
 		scan.close();
